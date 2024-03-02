@@ -26,9 +26,13 @@ h1 {
 .box{
     border-style: ridge;
     border: 10px solid rgb(0, 0, 0);
-    margin: 100px;
-    background-image: url(../img/raichu.png) ;
-    background-repeat: no-repeat ;
-
+    margin: 50px;
+    padding: 50px;
+    background-image: url(../img/raichu.png)  ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
 }
 
